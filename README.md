@@ -46,5 +46,5 @@
 ```
 ## 📊 Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliariabs&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://gitmystat.vercel.app/top?theme=&username=iliariabs&layout=default&color=0x4aabff&accent=0xffffff" alt="Top Languages" />
 </p>
