@@ -38,12 +38,6 @@
 
 <br>
 
-## 🔥 Currently
-
-```yaml
-- Making awesome portfolio projects
-- Building a high-performance game engine from scratch in C++20
-```
 ## 📊 Github Stats
 <p align="center">
   <img src="https://gitmystat.vercel.app/top?theme=&username=iliariabs&layout=default&color=0x4aabff&accent=0xffffff" alt="Top Languages" />
